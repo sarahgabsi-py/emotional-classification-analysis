@@ -71,3 +71,12 @@ Metrics used:
 - Confusion matrix heatmap
 - Comparison between actual and predicted labels
 
+Requirements 
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- nltk
+
+
