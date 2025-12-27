@@ -49,7 +49,7 @@ The implemented NLP pipeline includes the following steps:
 BERT embeddings using the model nlptown/bert-base-multilingual-uncased-sentiment
 
 3. Modeling
-- Sentiment inference using the BERT model
+Sentiment inference using the BERT model
 - Conversion of the score into emotion categories
 - Training a traditional classifier for comparison
 
