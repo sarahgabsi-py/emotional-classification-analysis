@@ -65,8 +65,6 @@ Metrics used:
 - Identification of the most difficult emotions to classify
 - Analysis of ambiguous cases
 - Verification of class distribution
-
-
 6. Results Visualization
 - Emotion distribution plot
 - Confusion matrix heatmap
