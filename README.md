@@ -1,4 +1,4 @@
-# Emotional Classification & Analysis – NLP Project
+# Sentiment Analysis – NLP Project
 
 📌 Project Objective
 
